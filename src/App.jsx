@@ -56,7 +56,7 @@ export default function App() {
       </main>
 
       <footer className="text-center text-gray-400 text-xs py-4">
-        Sparkonomy – sparking the creator economy
+        invoicely – sparking the creator economy
       </footer>
     </div>
   );
